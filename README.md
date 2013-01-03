@@ -13,3 +13,7 @@ ngdeploy
 nginx在http{。。。}的最后一行添加进include /opt/nginx/vhosts/*;
 
 新建目录，然后把生成的配置放进去就好了
+
+
+// lib 目录 用于管理工具
+
